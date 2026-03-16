@@ -15,3 +15,10 @@ def radicacion(numero, indice):
 print("Resultado:", radicacion(27, 3))
 
 
+
+def potencia_ENCINAS_CACERES_CRISTIAN(base, exponente):
+    return base ** exponente
+
+print("Resultado:", potencia_ENCINAS_CACERES_CRISTIAN(2, 3))
+
+
