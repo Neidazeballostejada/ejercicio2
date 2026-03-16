@@ -9,10 +9,10 @@ def resta_aimalupa_jose(a, b):
 
 print("Resultado:", resta_aimalupa_jose(10, 5))
 
-def radicacion(numero, indice):
+def radicacion_Madahi_Karen_Condori_Perez(numero, indice):
     return numero ** (1/indice)
 
-print("Resultado:", radicacion(27, 3))
+print("Resultado:", radicacion_Madahi_Karen_Condori_Perez(27, 3))
 
 
 
