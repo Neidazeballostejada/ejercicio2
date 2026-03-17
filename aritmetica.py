@@ -3,6 +3,7 @@ def multiplicacion_ticonaplata_jofre(a, b):
 
 print("Resultado:", multiplicacion_ticonaplata_jofre(6, 7))
 
+HEAD
 
 def resta_aimalupa_jose(a, b):
     return a - b
@@ -22,3 +23,9 @@ def potencia_ENCINAS_CACERES_CRISTIAN(base, exponente):
 print("Resultado:", potencia_ENCINAS_CACERES_CRISTIAN(2, 3))
 
 
+
+def division_wilber(a, b):
+    return a / b
+
+print("Resultado:", division_wilber(10, 2))
+feature/division_wilber
