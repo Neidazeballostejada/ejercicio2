@@ -15,7 +15,11 @@ print("Fracción (3/4):", fraccion(3, 4))
 
 
 
+# Fracciones 
+def fraccion_joel(a, b):
+    return str(a) + "/" + str(b)
 
+print("Fracción (3/4):", fraccion_joel(3, 4))
 
 
 
