@@ -35,3 +35,7 @@ def fraccion_joel(a, b):
     return str(a) + "/" + str(b)
 
 print("Fracción (3/4):", fraccion_joel(3, 4))
+
+def producto_alberto(a,b,c): 
+    return a*b*c 
+print ("Resultado:", producto_alberto(5*5*5))
